@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+tmp/
+public/
+.deploy/
+*.log
+.idea/
+coverage/
+yarn.lock
+db.json
+debug.log
+package-lock.json
