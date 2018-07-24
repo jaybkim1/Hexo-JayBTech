@@ -6,12 +6,13 @@
 title: JayB Tech
 subtitle: Continuous Effort Will Reward You In the End
 author: JayB Kim
-language: en
+language: 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: jaybdev.net       # Note: don't forget to modify the CNAME file to your url
+## without putting http/https, the Disqus causes problem. (took me for a while to figure out)
+url: https://jaybdev.net      # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
