@@ -8,6 +8,7 @@ catagories:
   - Git
 date: 2017-05-03 21:26:15
 subtitle:
+comments: true
 ---
 
 

@@ -8,6 +8,7 @@ catagories:
   - Java
 date: 2017-04-25 21:26:15
 header-img:
+comments: true
 ---
 
 

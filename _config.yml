@@ -32,30 +32,30 @@ signature-img: img/signature/JayBTechSignature-white.png
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
-github_username:    jaybkim1
+github_username: jaybkim1
 # twitter_username:   Demonbane_x
-facebook_username:  jaybkim2
-linkedin_username:  jaybkim1
+facebook_username: jaybkim2
+linkedin_username: jaybkim1
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 # Disqus settings
-disqus_username: jaybkim2
+disqus_username: jaybtech
 
 # Duoshuo settings
 # duoshuo_username: kaijun
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: false                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 # Analytics settings
 # Baidu Analytics
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-XXXXXXXX-X'          # Format: UA-xxxxxx-xx
-ga_domain: yoursite
+ga_track_id: 'UA-105225167-1'          # Format: UA-xxxxxx-xx
+ga_domain: jaybdev.net
 
 
 # Sidebar settings
@@ -180,4 +180,4 @@ deploy:
   type: git
   repository: https://github.com/jaybkim1/jaybkim1.github.io.git
   branch: master
-
+   

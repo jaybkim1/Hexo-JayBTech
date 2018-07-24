@@ -8,6 +8,7 @@ catagories:
   - Web
 date: 2017-04-24 21:26:15
 header-img:
+comments: true
 ---
 
 ## 도메인과 네임서버

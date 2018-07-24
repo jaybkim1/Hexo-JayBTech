@@ -10,6 +10,7 @@ catagories:
   - 삽질
 date: 2017-06-23 21:26:15
 header-img:
+comments: true
 ---
 
 

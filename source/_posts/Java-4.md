@@ -8,6 +8,7 @@ catagories:
 date: 2017-07-15 22:26:15
 subtitle:
 header-img:
+comments: true
 ---
 
 

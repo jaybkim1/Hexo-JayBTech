@@ -10,6 +10,7 @@ catagories:
 - Algorithm
 - 알고리즘
 date: 2017-04-20 21:26:15
+comments: true
 ---
 ## 알고리즘이란?
 

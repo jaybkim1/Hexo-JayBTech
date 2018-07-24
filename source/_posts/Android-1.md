@@ -8,6 +8,7 @@ catagories:
   - Android
 date: 2017-04-30 21:26:15
 header-img:
+comments: true
 ---
 
 

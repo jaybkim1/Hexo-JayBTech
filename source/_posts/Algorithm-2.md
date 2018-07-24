@@ -8,6 +8,7 @@ catagories:
   - Algorithm
 date: 2017-04-23 20:26:15
 header-img:
+comments: true
 ---
 
 ## 들어가기에 앞서...
