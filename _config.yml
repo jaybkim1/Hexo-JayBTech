@@ -10,8 +10,6 @@ language:
 timezone:
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-## without putting http/https, the Disqus causes problem. (took me for a while to figure out)
 url: https://jaybdev.net      # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :year/:month/:day/:title/
@@ -56,7 +54,7 @@ disqus_username: jaybtech
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-105225167-1'          # Format: UA-xxxxxx-xx
-ga_domain: jaybdev.net
+ga_domain: https://jaybdev.net
 
 
 # Sidebar settings
