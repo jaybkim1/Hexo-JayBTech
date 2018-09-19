@@ -1,6 +1,6 @@
 ---
 title: Spring Boot AWS S3 연결 및 사용법
-subtitle: '업로드, 다운로드, 버킷 리스트'
+subtitle: '업로드, 다운로드, 버킷 리스트, 파일 URL'
 catalog: true
 tags:
   - Java
@@ -36,16 +36,14 @@ header-img:
 
 [Maven Central Link](https://search.maven.org/#search%7Cga%7C1%7Caws%20java%20sdk)에서 최신 버전을 확인 할 수 있습니다.
 
-<pre>
-<code>
-    <!-- aws-java-sdk -->
-    <dependency>
-        <groupId>com.amazonaws</groupId>
-        <artifactId>aws-java-sdk</artifactId>
-        <version>1.11.106</version>
-    </dependency>
-</pre>
-</code>
+```
+<!-- aws-java-sdk -->
+<dependency>
+    <groupId>com.amazonaws</groupId>
+    <artifactId>aws-java-sdk</artifactId>
+    <version>1.11.106</version>
+</dependency>
+```
 
 
 #### # IAM 정책에서 ACCESS_KEY 와 SECRET_KEY 확인
